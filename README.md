@@ -1,4 +1,4 @@
-# djangoadmin_customization
+# Django admin customization
 
 Customize django admin using python (Batch A)
 
